@@ -68,7 +68,7 @@ export default function Works() {
           <h2 className="font-semibold text-xl">Movie DB</h2>
           <p className="text-sm text-gray-400">moviedb.cosmicguy.online</p>
           <div className="flex my-3">
-            <span className="px-2 py-1 border rounded-full mr-2">TheMOvieDBAPI</span>
+            <span className="px-2 py-1 border rounded-full mr-2">TheMovieDBAPI</span>
             <span className="px-2 py-1 border rounded-full mr-2">CSS</span>
             <span className="px-2 py-1 border rounded-full">JS, HTML</span>
           </div>
