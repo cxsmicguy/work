@@ -64,6 +64,21 @@ export default function Works() {
           </a>
         </div>
         <br />
+        <div className="bg-white text-left rounded-2xl p-5 max-w-md shadow hover:shadow-md">
+          <h2 className="font-semibold text-xl">Movie DB</h2>
+          <p className="text-sm text-gray-400">moviedb.cosmicguy.online</p>
+          <div className="flex my-3">
+            <span className="px-2 py-1 border rounded-full mr-2">TheMOvieDBAPI</span>
+            <span className="px-2 py-1 border rounded-full mr-2">CSS</span>
+            <span className="px-2 py-1 border rounded-full">JS, HTML</span>
+          </div>
+          <p className="text-gray-500">Just a movie guid one-page website....</p>
+          <br />
+          <a href="http://moviedb.cosmicguy.online" className="text-white px-5 py-3 bg-gradient-to-r from-sky-500 to-indigo-500 inline-block rounded-full">
+            See demo
+          </a>
+        </div>
+        <br />
         <p className="text-white">This also a website made<br/>by me with Next Js :)</p>
       </center>
     </div>

@@ -1,7 +1,7 @@
 export default function Head() {
   return (
     <>
-      <title>My Works - Cxsmivguy</title>
+      <title>My Works - Cxsmicguy</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <link rel="icon" href="/favicon.png" />
     </>
